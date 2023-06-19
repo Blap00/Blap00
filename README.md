@@ -1,7 +1,7 @@
 ### Aloha! 👋
-Sobre mi!
+<h3> Sobre mi! </h3>  
 <hr>
-<h1>TEST</h1>
+<h5>Mi nombre es Fabian Palma, actualmente soy un estudiante de Ingenieria Informatica, curso actualmente el 5to semestre</h5>
 <!--
 Here are some ideas to get you started:
 
