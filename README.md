@@ -1,6 +1,3 @@
-<style>
-</style>
-
 <h1>¡ Alohas !👋</h1> 
 <h3> Sobre mi! </h3>  
 <hr>
