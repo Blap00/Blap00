@@ -1,4 +1,5 @@
 <h1>Aloha!👋 <h1> 
+<hr>
 <h3> Sobre mi! </h3>  
 <hr>
 <h4> &#x1F393; - Mi nombre es Fabian Palma, actualmente soy un estudiante de Ingenieria Informatica, curso actualmente el 5to semestre</h4>
