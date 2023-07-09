@@ -8,7 +8,7 @@
 
 ---
 
-- ✍️ - Actualmente trabajo como desarrollador web en [Permify.cl](https://permify.cl/), desempeñando labores de Fullstack, tanto en frontend como en backend.
+- ✍️ - Actualmente me encuentro estudiando en [DuocUC.cl](https://www.duoc.cl/), estoy estudiando y actualizando constantemente mi conocimiento dentro de esta institucion.
 
 - 🚀 - Tengo muchos proyectos en marcha, aunque no los subo todos. Sin embargo, en este perfil de GitHub, todos los proyectos disponibles están abiertos para trabajar, estudiar, armar o explorar diferentes aspectos en ellos.
 
