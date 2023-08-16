@@ -12,9 +12,9 @@
 
 - 🚀 - Tengo muchos proyectos en marcha, aunque no los subo todos. Sin embargo, en este perfil de GitHub, todos los proyectos disponibles están abiertos para trabajar, estudiar, armar o explorar diferentes aspectos en ellos.
 
-- 📻 - Según mis estudios, actualmente estoy en el quinto semestre de Ingeniería Informática. Estoy realizando un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
+- 📻 - Según mis estudios, actualmente estoy en el sexto semestre de Ingeniería Informática. Estoy realizando un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
 
-- 📝 - Actualmente estoy desarrollando sitios con REST API en JAVA para la asignatura de "Integración de plataformas", donde estamos trabajando en un proyecto de integración basado en el sistema SOAP.
+- 📝 - Actualmente estoy desarrollando sitios JAVA SPRING para la asignatura, donde estamos trabajando en un proyecto de PETSHOP en grupo, seguimos trabajando en ello.
 
 ---
 
