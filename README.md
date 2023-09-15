@@ -14,7 +14,7 @@
 
 - 📻 - Según mis estudios, actualmente estoy en el sexto semestre de Ingeniería Informática. Estoy realizando un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
 
-- 📝 - Actualmente estoy desarrollando sitios JAVA SPRING para mi titulo de FULLSTQACK, estamos trabajando en un proyecto de PETSHOP en grupo, seguimos trabajando en ello.
+- 📝 - Actualmente estoy desarrollando sitios Python Django como practica profesional en Duoc UC, todo esto en proceso de obtener mayores aprendizajes en mi carrera profesional
 
 ---
 
