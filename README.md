@@ -12,7 +12,7 @@
 
 - 🚀 - Tengo muchos proyectos en marcha, aunque no los subo todos. Sin embargo, en este perfil de GitHub, todos los proyectos disponibles están abiertos para trabajar, estudiar, armar o explorar diferentes aspectos en ellos.
 
-- 📻 - Según mis estudios, actualmente estoy en el septimo semestre de Ingeniería Informática. Eealice un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
+- 📻 - Según mis estudios, actualmente estoy en el septimo semestre de Ingeniería Informática. Realice un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
 
 - 📝 - Actualmente estoy desarrollando sitios Python Django como Ayudante en Duoc UC, todo esto en proceso de obtener mayores aprendizajes en mi carrera profesional
 
