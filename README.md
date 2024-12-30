@@ -4,17 +4,17 @@
 
 ---
 
-#### 🎓 - Mi nombre es Fabian Palma, actualmente soy un estudiante de Ingeniería Informática y estoy en el 6xto semestre.
+#### 🎓 - Mi nombre es Fabian Palma, titulado en Ingeniería Informática.
 
 ---
 
-- ✍️ - Actualmente me encuentro estudiando en [DuocUC.cl](https://www.duoc.cl/), estoy estudiando y actualizando constantemente mi conocimiento dentro de esta institucion.
+- ✍️ - Actualmente me encuentro titulado en [DuocUC.cl](https://www.duoc.cl/) como Ingeniero Informatico.
 
 - 🚀 - Tengo muchos proyectos en marcha, aunque no los subo todos. Sin embargo, en este perfil de GitHub, todos los proyectos disponibles están abiertos para trabajar, estudiar, armar o explorar diferentes aspectos en ellos.
 
-- 📻 - Según mis estudios, actualmente estoy en el septimo semestre de Ingeniería Informática. Realice un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
+- 📻 - Según mis estudios, curse cada semestre de Ingeniería Informática. Realice un bootcamp en Java Fullstack, he desarrollado videojuegos y sitios complejos. Aun así, estoy abierto a nuevas tecnologías y aprendizajes.
 
-- 📝 - Actualmente estoy desarrollando sitios Python Django como Ayudante en Duoc UC, todo esto en proceso de obtener mayores aprendizajes en mi carrera profesional
+- 📝 - Actualmente estoy desarrollando sitios en distintas tecnologías, todo esto en proceso de obtener mayores aprendizajes en mi carrera profesional
 
 ---
 
